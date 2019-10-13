@@ -30,10 +30,34 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(20).pdf" style="text-decoration:none;">C++ Programming Styles and Libraries</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(21).pdf" style="text-decoration:none;">"New" Value Terminology </a></b></li>                                
-          <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(11).pdf" style="text-decoration:none;">What is "Object-Oriented Programming"? (1991 revised version) </a></b></li>          
+          <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(22).pdf" style="text-decoration:none;">Abstraction and the C++ machine model </a></b></li>          
           
           
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(23).pdf" style="text-decoration:none;">A Brief Look at C++</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(24).pdf" style="text-decoration:none;">C++ Dynamic Cast in Autonomous Space Systems</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(25).pdf" style="text-decoration:none;">Fast dynamic casting</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(26).pdf" style="text-decoration:none;">Model-based Product-Oriented Certification</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(27).pdf" style="text-decoration:none;"> Open Multi-Methods for C++ </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(28).pdf" style="text-decoration:none;">Learning Standard C++ as a New Language </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(29).pdf" style="text-decoration:none;">Design and evaluation of C++ open multi-methods </a></b></li>                                
+          <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(30).pdf" style="text-decoration:none;">Runtime Concepts for the C++ Standard Template Library </a></b></li>           
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(31).pdf" style="text-decoration:none;">Why C++ is not just an Object Oriented Programming Language</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(32).pdf" style="text-decoration:none;">Supporting SELL for High-Performance Computing </a></b></li>                                
+          <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(33).pdf" style="text-decoration:none;">A rationale for semantically enhanced library languages </a></b></li> 
           
+          
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(34).pdf" style="text-decoration:none;">Sibling Rivalry: C and C++</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(35).pdf" style="text-decoration:none;">Reliable and Efficient Concurrent Synchronization for Embedded Real-Time Software</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(36).pdf" style="text-decoration:none;">Serving the C++ Community</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(37).pdf" style="text-decoration:none;">Wrapping C++ Member Function Calls</a></b></li>                              
+        
 
 
 
