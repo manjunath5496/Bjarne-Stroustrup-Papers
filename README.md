@@ -58,7 +58,11 @@
                                
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(37).pdf" style="text-decoration:none;">Wrapping C++ Member Function Calls</a></b></li>                              
         
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(38).pdf" style="text-decoration:none;">Rejuvenating C++ Programs through Demacrofication</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(39).pdf" style="text-decoration:none;">Open and Efficient Type Switch for C++</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bjarne-Stroustrup-Papers/blob/master/ru(40).pdf" style="text-decoration:none;">Software Development for Infrastructure</a></b></li> 
 
 
 
